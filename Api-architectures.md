@@ -1,3 +1,16 @@
+GFG API DOCS: https://www.geeksforgeeks.org/software-testing/what-is-an-api/
+
+## Introduction to API 
+An API (Application Programming Interface) is a set of rules that allows different software applications to communicate and exchange data with each other. It acts as a bridge between systems, enabling one application to request services or information from another in a structured way.
+
+APIs help different applications connect and work together smoothly.
+They allow data sharing and communication without exposing internal system logic.
+APIs are widely used in web applications, mobile apps, payment systems, and cloud services.
+
+Example: A mobile banking app requests account details through an API. The API verifies the request, fetches data from the banking server, and returns the account information to the app.
+
+## API Architectures 
+
 The dominant API architectural styles used in software development are REST, GraphQL, gRPC, WebSockets, Webhooks, SOAP, and MQTT. Each style follows a specific set of design principles, communication rules, and data formats optimized for different engineering problems. [1, 2, 3, 4]  
 Comparison of API Architectures 
 
